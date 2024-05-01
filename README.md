@@ -21,7 +21,7 @@ Como Usar:
 2. Certifique-se de ter o XAMPP (ou qualquer outro servidor web local de sua preferência) instalado em sua máquina.
 3. Mova o diretório clonado para o diretório htdocs dentro do diretório de instalação do XAMPP.
 3. Inicie o servidor Apache no painel de controle do XAMPP.
-4. Abra o navegador web e navegue até http://localhost/<project>/index.php.
+4. Abra o navegador web e navegue até http://localhost/project/index.php.
 
 
 ## Tecnologias Utilizadas:
